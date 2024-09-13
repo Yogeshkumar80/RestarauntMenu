@@ -2,7 +2,7 @@
 
 const AboutUs = () => {
   return (
-    <div className="app__bg app__AboutUs">
+    <div className="app__bg app__AboutUs section__padding ">
       
     </div>
   )
