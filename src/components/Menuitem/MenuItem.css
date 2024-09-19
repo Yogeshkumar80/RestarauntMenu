@@ -1,0 +1,35 @@
+.app__menuItem{
+    width:100%;
+    display:flex;
+    margin:1rem 0;
+    flex-direction: column;  
+}
+
+.app__menuItem-head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app__menu-sub{
+    width:100%;
+    margin-top:0.2rem;  
+}
+
+.app__menuItem-name{
+    flex:1;
+}
+
+.app__menuItem-prices{
+    display: flex;
+    align-items: flex-end;
+    justify-content:flex-end;
+}
+
+.app__menuItem-dash{
+    width: 90px;
+    height: 1px;
+    background-color: var(--color-golden);
+    margin: 0 1rem;
+}
