@@ -59,6 +59,7 @@
     opacity:1;
     transition: 0.5 ease;
     object-fit:cover;
+    
 }
 
 .app__gallery_image_card:hover img{
